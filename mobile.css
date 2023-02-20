@@ -137,5 +137,7 @@
     .section2{
         display: none;
     }
-    
+    .header_search input[type="text"] {
+        font-size: 12px;
+    }
 }
