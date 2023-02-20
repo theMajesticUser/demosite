@@ -1,0 +1,34 @@
+@media only screen and (min-width:1440px) {
+    .section{
+        height: auto;
+    }
+    .columnmenudesc p{
+        padding:0;
+    }
+    .section7{
+        height: 55vh;
+        background-size: contain;
+    }
+    .section9{
+        margin-bottom: 10vh;
+    }
+    .section6{
+        padding-bottom: 10vh;
+    }
+    .columncard{
+        width: 30%;
+        margin: 1%;
+    }
+    .columncard img{
+        width: 100%;
+    }
+    .abtimgpic{
+        width: 90%;
+        height: auto;
+    }
+    .sec2_block{
+        height: auto;
+        margin: 5% 0 5% 0;
+        padding: 5% 0 5% 0;
+    }
+}

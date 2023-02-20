@@ -1,0 +1,141 @@
+@media only screen and (min-width:320px) and (max-width: 767px){
+    h1{
+        font-size: 40px;
+        margin:5px;
+    }
+    h3{
+        font-size: 20px;
+        margin: 5px;
+    }
+    p{
+        margin: 5px;
+    }
+    button{
+        margin: 5px;
+    }
+    .mbl_header_navmenu{
+        display: block !important;
+    }
+    .header_navmenu{
+        display: none !important;
+    }   
+    .header_logo{
+        width: 60% !important;
+    }
+    .dropdown_menu{
+        display: none;  
+        padding: 5%;
+        background-color:#537543;
+    }
+    .mbl_navmenu{
+        margin-top: 1vh;
+        text-align: center;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0;
+    }
+    .mbl_navmenu>li{
+        opacity: 1;
+        margin-bottom: 1vh;
+        height:5vh !important;
+        background-color: white;
+        padding:5%;
+    }
+    .mbl_navmenu>li>a{
+        color: #e6ca48;
+        text-decoration: none;
+    }
+    .mbl_navmenu a:hover{
+        color: #537543;
+    }
+    .column4l{
+        width: 95%;
+    }
+    .column4s{
+        width: 30%;
+    }
+    .column21{
+        width: 100%;
+    }
+    .herotext{
+        margin: 0;
+    }
+    .section{
+    height: auto !important;
+    display: block;
+    }
+    .column{
+        padding: 5px;
+    }
+    .columnmenuimg{
+        width: 100%;
+        text-align: center;
+    }
+    .columnmenudesc{
+        width: 100%;
+        text-align: center;
+    }
+    .columnmenudesc p{
+        padding: 0;
+    }
+    .section7{
+        background-size: cover;
+    }
+    .section6{
+        height: 40vh;
+    }
+    .column2 {
+        width: 95%;
+        padding: 5%;
+    }
+    .columncard{
+        width: 100%;
+        margin: 10px 50px 10px 0;
+    }
+    .column3{
+        width: 100%;
+        padding: 5% 0 5% 0;
+    }
+    .herotext{
+        margin: 5%;
+    }
+    header{
+        height: 20vh;
+        padding: 5%;
+    }
+    .heroimg{
+        width: 95%;
+    }
+    .clm2img{
+        width: 100%;
+    }
+    .header_search{
+        width: 30%;
+    }
+    .mbl_header_navmenu{
+        width: 20%;
+    }
+    .header_logo{
+        width: 65% !important;
+    }
+    .mbl_header_navmenu{
+        width: 20%;
+    }
+    .header_search{
+        width: 25%;
+        padding-right: 5%;
+    }
+    .section2mbl{
+        display: block;
+        background-color: #e6ca48;
+        padding: 5vh;
+    }
+    .abtimgpic{
+        width: 80vw;
+        height: auto;
+    }
+    .section2{
+        display: none;
+    }
+    
+}

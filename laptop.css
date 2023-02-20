@@ -1,0 +1,43 @@
+@media only screen and (min-width:1024px) and (max-width: 1439px){
+    .section{
+        height: auto;
+    }
+    .section7{
+        height: 55vh;
+        background-size: cover;
+    }
+    .columnimg img{
+        width: 100% !important;
+    }
+    .columnmenudesc,.columnmenuimg{
+        width: 100%;
+    }
+    .columnmenudesc p{
+        padding:0;
+    }
+    .section9{
+        margin-bottom: 10vh;
+    }
+    .abtimgpic{
+        width: 90%;
+        height: auto;
+    }
+    .sec2_block{
+        height: auto;
+        margin: 5% 0 5% 0;
+        padding: 5% 0 5% 0;
+    }
+    .columncard{
+        width: 30%;
+        margin: 1%;
+    }
+    .columncard img{
+        width: 100%;
+    }
+    .heroimg{
+        width: 95%;
+    }
+    .herotext{
+        margin:5%;
+    }
+}

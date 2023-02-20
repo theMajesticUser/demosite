@@ -1,0 +1,80 @@
+@media only screen and (min-width:768px) and (max-width: 1023px){
+    h1{
+        font-size: 60px !important;
+        margin:5px;
+    }
+    h3{
+        font-size: 30px !important;
+        margin: 5px;
+    }
+    h2{
+        margin: 5px;
+    }
+    p{
+        font-size: 16px !important;
+        margin: 5px;
+    }
+    button{
+        margin: 5px;
+    }
+    .herotext{
+        margin:5%;
+    }
+    .section{
+        height: auto !important;
+    }
+    .heroimg{
+        width: 95%;
+    }
+    .abtimg{
+        
+        height: auto;
+    }
+    .abtimgpic{
+        width: 90%;
+        height: auto;
+    }
+    .sec2_block{
+        height: auto;
+        margin: 5% 0 5% 0;
+        padding: 5% 0 5% 0;
+    }
+    .columncard{
+        width: 30%;
+        margin: 1%;
+    }
+    .columncard img{
+        width: 100%;
+    }
+    .section7{
+        padding: 5% 0 5% 0;
+        background-size: cover;
+    }
+    .columnimg img{
+        width: 100% !important;
+    }
+    .columnmenudesc,.columnmenuimg{
+        width: 100%;
+    }
+    .columnmenudesc p{
+        padding:0;
+    }
+    .header_logo{
+        width: 25%;
+    }
+    header{
+        height: 15vh;
+    }
+    .header_navmenu{
+        float: left;
+        width: 100%;
+    }
+    .header_search{
+        float: left;
+        width: 50%;
+    }
+    .header_logo{
+        width: 13%;
+    }
+
+}
