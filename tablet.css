@@ -76,5 +76,40 @@
     .header_logo{
         width: 13%;
     }
+    .mbl_header_navmenu{
+        display: block !important;
+    }
+    .header_navmenu{
+        display: none !important;
+    }   
+    .header_logo{
+        width: 60% !important;
+    }
+    .dropdown_menu{
+        display: none;  
+        padding: 5%;
+        background-color:#537543;
+    }
+    .mbl_navmenu{
+        margin-top: 1vh;
+        text-align: center;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0;
+    }
+    .mbl_navmenu>li{
+        opacity: 1;
+        margin-bottom: 1vh;
+        height:5vh !important;
+        background-color: white;
+        padding:5%;
+    }
+    .mbl_navmenu>li>a{
+        color: #e6ca48;
+        text-decoration: none;
+    }
+    .mbl_navmenu a:hover{
+        color: #537543;
+    }
 
 }
